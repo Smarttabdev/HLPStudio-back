@@ -23,11 +23,11 @@ git push
 
 ### then click open
 
-![](https://github.com/AnnaAn117/HLPStudio-back/putty_setting.png)
+![](https://github.com/AnnaAn117/HLPStudio-back/blob/main/putty_setting.png)
 
 ### input username and password in putty terminal
 
-![](https://github.com/AnnaAn117/HLPStudio-back/putty_terminal_login.png)
+![](https://github.com/AnnaAn117/HLPStudio-back/blob/main/putty_terminal_login.png)
 
 `Clone repository from` [github.com/AnnaAn117](https://github.com/AnnaAn117/HLPStudio-back)
 
