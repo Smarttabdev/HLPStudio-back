@@ -23,17 +23,17 @@ git push
 
 ### then click open
 
-![](https://github.com/Vladislav716/HLP-studio-back/blob/master/putty_setting.png)
+![](https://github.com/AnnaAn117/HLPStudio-back/blob/master/putty_setting.png)
 
 ### input username and password in putty terminal
 
-![](https://github.com/Vladislav716/HLP-studio-back/blob/master/putty_terminal_login.png)
+![](https://github.com/AnnaAn117/HLPStudio-back/blob/master/putty_terminal_login.png)
 
-`Clone repository from` [github.com/Vladislav716](https://github.com/Vladislav716/HLP-studio-back)
+`Clone repository from` [github.com/Vladislav716](https://github.com/AnnaAn117/HLPStudio-back)
 
 ```
 cd ~/HLP-Studio
-git clone https://github.com/Vladislav716/HLP-studio-back.git
+git clone https://github.com/AnnaAn117/HLPStudio-back.git
 ```
 
 `Install dependency and run`
