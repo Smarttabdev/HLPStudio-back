@@ -1,0 +1,32 @@
+{
+  "development": {
+    "username": "postgres",
+    "password": "qwe123",
+    "database": "hlp",
+    "host": "127.0.0.1",
+    "dialect": "postgres",
+    "logging": false
+  },
+  "test": {
+    "username": "postgres",
+    "password": null,
+    "database": "value-estimator-test",
+    "host": "127.0.0.1",
+    "dialect": "postgres",
+    "logging": true
+  },
+  "production": {
+    "username": "hlpstdio_db_user",
+    "password": "kLDiek($*473JD,w",
+    "database": "hlpstdio_db",
+    "host": "localhost",
+    "dialect": "mysql",
+    "logging": false,
+    "pool": {
+      "max": 5,
+      "min": 0,
+      "acquire": 30000,
+      "idle": 10000
+    }
+  }
+}
