@@ -29,11 +29,11 @@ git push
 
 ![](https://github.com/Vladislav716/HLP-studio-back/blob/master/putty_terminal_login.png)
 
-`Clone repository from` [github.com/Smarttabdev](https://github.com/Smarttabdev/HLPStudio-back)
+`Clone repository from` [github.com/Vladislav716](https://github.com/Vladislav716/HLP-studio-back)
 
 ```
 cd ~/HLP-Studio
-git clone https://github.com/Smarttabdev/HLPStudio-back.git
+git clone https://github.com/Vladislav716/HLP-studio-back.git
 ```
 
 `Install dependency and run`
